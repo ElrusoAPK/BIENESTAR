@@ -15,7 +15,7 @@ content="width=device-width, initial-scale=1.0">
 <title>Sistema Bienestar</title>
 
 <link rel="stylesheet"
-href="css/estilo.css">
+href="/css/estilo.css">
 
 </head>
 
@@ -31,7 +31,7 @@ href="css/estilo.css">
 Sistema de Gestión de Medicamentos
 </p>
 
-<form action="auth/validar.php"
+<form action="/auth/validar.php"
 method="POST">
 
 <div class="input-group">
