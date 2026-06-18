@@ -11,13 +11,13 @@ ini_set('display_errors', 1);
    CONEXION
 ========================= */
 
-include 'config/conexion.php';
+include '/config/conexion.php';
 
 /* =========================
    ARCHIVO CSV
 ========================= */
 
-$archivo = 'excel/farmacias.csv';
+$archivo = '/excel/farmacias.csv';
 
 /* =========================
    VERIFICAR EXISTENCIA
